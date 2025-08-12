@@ -1,6 +1,6 @@
 # qgao-library
 
-This template should help get you started developing with Vue 3 in Vite.
+This repo is for FIT5032 eFolios.
 
 ## Recommended IDE Setup
 
